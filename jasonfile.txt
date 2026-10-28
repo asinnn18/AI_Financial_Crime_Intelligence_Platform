@@ -1,0 +1,123 @@
+{
+  "name": "Peaceful Green & Amber",
+  "dataColors": [
+    "#6BAF92",
+    "#E2B85D",
+    "#8DC7A3",
+    "#F2C879",
+    "#4E8D73",
+    "#C7D9B7",
+    "#F5D9A6",
+    "#7FB5A3"
+  ],
+  "background": "#F7FAF5",
+  "foreground": "#2F4F4F",
+  "tableAccent": "#6BAF92",
+  "good": "#5FAF7A",
+  "neutral": "#D9C27A",
+  "bad": "#C97C5D",
+  "maximum": "#2E7D5B",
+  "center": "#E2B85D",
+  "minimum": "#EAF4EC",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold",
+            "color": {
+              "solid": {
+                "color": "#2F4F4F"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "show": false,
+            "transparency": 100
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F7FAF5"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#2F4F4F"
+              }
+            },
+            "fontSize": 28
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#6A7F73"
+              }
+            },
+            "fontSize": 12
+          }
+        ]
+      }
+    },
+
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": true,
+            "gridHorizontal": true,
+            "outlineColor": {
+              "solid": {
+                "color": "#DDE8DF"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "fontSize": 11,
+            "color": {
+              "solid": {
+                "color": "#2F4F4F"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Financial Crime Intelligence",
+  "dataColors": [
+    "#18B6A4",
+    "#2EAD73",
+    "#F4B942",
+    "#E74C3C",
+    "#5B8FF9",
+    "#7A6FF0",
+    "#8E9AAF",
+    "#D96C75"
+  ],
+  "background": "#F4F7F6",
+  "foreground": "#102A23",
+  "tableAccent": "#18B6A4",
+  "firstLevelElements": "#102A23",
+  "secondLevelElements": "#48635C",
+  "thirdLevelElements": "#DCE7E3",
+  "fourthLevelElements": "#7B8F89",
+  "secondaryBackground": "#E8F0ED"
+}
